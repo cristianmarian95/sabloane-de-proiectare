@@ -1,2 +1,2 @@
-# sabloane-de-proiectare
+# Sabloane de proiectare
 Sabloane de Proiectare UVT
